@@ -17,8 +17,8 @@
 
 ### 🌱 A little about me
 
-- 🎓 **Business Intelligence Systems Infrastructure** graduate-certificate student at **Algonquin College** *(Jan – Aug 2026)*.
-- 🏅 **Dean's Honour List · GPA 3.83 / 4.0** from my prior Supply Chain Management – Global graduate certificate.
+- 🎓 **Business Intelligence Systems Infrastructure** Graduate Certificate student at **Algonquin College** *(Jan – Aug 2026)*.
+- 🏅 **Dean's Honour List · GPA 3.83 / 4.0** from my prior Supply Chain Management – Global Graduate Certificate.
 - 🔭 I build **SQL + Python + Power BI** projects that start from a real business question and end with a decision someone can act on.
 - 🤝 **Open to a Fall 2026 co-op** in Data Analytics, Business Intelligence, or Database Administration.
 
@@ -36,13 +36,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-**Languages & libraries:** SQL · Python (pandas, scikit-learn, matplotlib)
+**Languages & Libraries:** SQL · Python (pandas, scikit-learn, matplotlib)
 
-**Visualization:** Power BI · Tableau · Excel · DAX
+**Data Visualization:** Power BI · Tableau · Excel
 
-**Databases & modeling:** SQL Server · MySQL · star-schema · normalization
+**Databases & Data Modeling:** SQL Server · MySQL · Star-schema modeling · Snowflake
 
-**Workflow:** Jupyter · Alteryx · RapidMiner · Streamlit · Git · AWS
+**Others:** Jupyter · Alteryx · RapidMiner · Streamlit · Git · AWS · VS Code
 
 ### 📌 Featured projects
 
@@ -63,4 +63,4 @@
 - 💼 **LinkedIn:** [in/ngan-nguyen](https://www.linkedin.com/in/ngan-nguyen-2022a4358/)
 - ✉️ **Email:** [nguy1174@algonquinlive.com](mailto:nguy1174@algonquinlive.com)
 
-<p align="center"><sub>Thanks for stopping by — let's turn data into decisions. ✨</sub></p>
+<p align="center"><sub>Thanks for stopping by — Let's turn data into decisions! ✨</sub></p>
