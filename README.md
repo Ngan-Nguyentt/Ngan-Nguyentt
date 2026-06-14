@@ -46,10 +46,10 @@
 | Project | What it answers | Stack |
 | :--- | :--- | :--- |
 | 🏥 [Hospital Database Management System](https://github.com/Ngan-Nguyentt/hospital-database-management-system) | Where are patient retention, bed occupancy, and medicine stock quietly costing the hospital? | `SQL Server` · `T-SQL` · `Power BI` |
-| 🚦 [Collision Risk Predictive Analysis](https://github.com/Ngan-Nguyentt/collision-risk-prediction-toronto) | What makes a Toronto crash turn fatal — and where should safety spending go? | `Python` · `scikit-learn` |
+| 🚦 [Collision Risk Predictive Analysis](https://github.com/Ngan-Nguyentt/collision-risk-prediction-toronto) | What makes a Toronto crash turn fatal and where should safety spending go? | `Python` · `scikit-learn` |
 | 💸 [Personal Finance Behaviour Analysis](https://github.com/Ngan-Nguyentt/personal-finance-behaviour-analysis) | Why do budgets fail, and can an app warn people before they overspend? | `Python` · `pandas` · `Django` |
 | 📈 [Stock Market Intelligence Dashboard](https://github.com/Ngan-Nguyentt/stock-market-risk-analytics-powerbi) | Can an everyday investor read five mega-cap stocks the way an analyst would? | `Power BI` · `Power Query` · `DAX` |
-| 🛒 [Superstore Sales Performance](https://github.com/Ngan-Nguyentt/superstore-sales-performance-dashboard-powerbi) | Which regions and products are truly profitable — not just high-revenue? | `Power BI` · `DAX` |
+| 🛒 [Superstore Sales Performance](https://github.com/Ngan-Nguyentt/superstore-sales-performance-dashboard-powerbi) | Which regions and products are truly profitable not just high-revenue? | `Power BI` · `DAX` |
 | 💼 [Sales Performance Dashboard](https://github.com/Ngan-Nguyentt/sales-performance-dashboard-powerbi) | Sales grew every year — so why didn't profit follow? | `Power BI` · `Data Modeling` |
 
 ➡️ **See them live with the stories behind them:** **[ngan-nguyentt.github.io](https://ngan-nguyentt.github.io/)**
