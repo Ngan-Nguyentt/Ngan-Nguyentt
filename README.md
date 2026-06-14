@@ -3,8 +3,8 @@
 <h3 align="center">Data &amp; Business Intelligence Analyst · Ottawa, ON 🇨🇦</h3>
 
 <p align="center">
-  I turn messy, multi-table data into clean models, interactive dashboards, and decision-ready insight —<br/>
-  <em>measured by the decisions it changes, not the charts it makes.</em>
+  I turn messy, multi-table data into clean models, interactive dashboards, and decision-ready insight<br/>
+  <em>Measured by the decisions it changes, not the charts it makes.</em>
 </p>
 
 <p align="center">
