@@ -60,5 +60,3 @@
 - 🌐 **Portfolio:** [ngan-nguyentt.github.io](https://ngan-nguyentt.github.io/)
 - 💼 **LinkedIn:** [in/ngan-nguyen](https://www.linkedin.com/in/ngan-nguyen-2022a4358/)
 - ✉️ **Email:** [nguy1174@algonquinlive.com](mailto:nguy1174@algonquinlive.com)
-
-<p align="center"><sub>Thanks for stopping by — Let's turn data into decisions! ✨</sub></p>
