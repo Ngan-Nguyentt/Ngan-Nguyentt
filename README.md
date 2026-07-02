@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ngan Nguyen 👋</h1>
+<h1 align="center">Hi, I'm Tracy Nguyen 👋</h1>
 
 <h3 align="center">Data Analyst · Ottawa, ON 🇨🇦</h3>
 
