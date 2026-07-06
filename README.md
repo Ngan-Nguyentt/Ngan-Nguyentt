@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://ngan-nguyentt.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ngan--nguyentt.github.io-0b3d63?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ngan-nguyen-2022a4358/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ngan%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:nguy1174@algonquinlive.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:tracynttnguyen@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -59,4 +59,6 @@
 
 - 🌐 **Portfolio:** [ngan-nguyentt.github.io](https://ngan-nguyentt.github.io/)
 - 💼 **LinkedIn:** [in/ngan-nguyen](https://www.linkedin.com/in/ngan-nguyen-2022a4358/)
-- ✉️ **Email:** [nguy1174@algonquinlive.com](mailto:nguy1174@algonquinlive.com)
+- ✉️ **Email:** [tracynttnguyen@gmail.com](mailto:tracynttnguyen@gmail.com)
+
+<p align="center"><sub>Thanks for stopping by — let's turn data into decisions. ✨</sub></p>
