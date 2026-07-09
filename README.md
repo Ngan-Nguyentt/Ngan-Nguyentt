@@ -17,7 +17,7 @@
 
 ### 🌱 A little about me
 
-- 🎓 **Business Intelligence Systems Infrastructure** Graduate Certificate at **Algonquin College** *(Jan – Aug 2026)*. GPA: 3.93/4.0
+- 🎓 **Business Intelligence Systems Infrastructure** Graduate Certificate - **Algonquin College** *(Jan 2026 - Present)*. GPA: 3.93/4.0
 - 🔭 I build end-to-end pipeline by using **SQL + Python** and develop an interactive dashboard in **Power BI**, use data to solve real complex business problems. 
 
 ### 🛠️ My toolbox
