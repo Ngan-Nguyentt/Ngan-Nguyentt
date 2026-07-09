@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ngan Nguyen 👋</h1>
 
-<h3 align="center">Data Analyst · Ottawa, ON 🇨🇦</h3>
+<h3 align="center">Data Analyst </h3>
 
 <p align="center">
   I turn messy, multi-table data into clean models, interactive dashboards, and decision-ready insight<br/>
