@@ -17,10 +17,8 @@
 
 ### 🌱 A little about me
 
-- 🎓 **Business Intelligence Systems Infrastructure** Graduate Certificate student at **Algonquin College** *(Jan – Aug 2026)*.
-- 🏅 **Dean's Honour List · GPA 3.83 / 4.0** from my prior Supply Chain Management – Global Graduate Certificate.
+- 🎓 **Business Intelligence Systems Infrastructure** Graduate Certificate student at **Algonquin College** *(Jan – Aug 2026)*. GPA: 3.93/4.0
 - 🔭 I build **SQL + Python + Power BI** projects that start from a real business question and end with a decision someone can act on.
-- 🤝 **Open to a Fall 2026 co-op** in Data Analytics, Business Intelligence, or Database Administration.
 
 ### 🛠️ My toolbox
 
@@ -44,21 +42,10 @@
 
 **Others:** Jupyter · Alteryx · RapidMiner · Streamlit · Git · AWS · VS Code
 
-### 📌 Featured projects
+➡️ **See the projects live:** **[ngan-nguyentt.github.io](https://ngan-nguyentt.github.io/)**
 
-| Project | What it answers | Stack |
-| :--- | :--- | :--- |
-| 🏥 [Hospital Database Management System](https://github.com/Ngan-Nguyentt/hospital-database-management-system) | Where are patient retention, bed occupancy, and medicine stock quietly costing the hospital? | `SQL Server` · `T-SQL` · `Power BI` |
-| 🚦 [Collision Risk Predictive Analysis](https://github.com/Ngan-Nguyentt/collision-risk-prediction-toronto) | What makes a Toronto crash turn fatal and where should safety spending go? | `Python` · `scikit-learn` |
-| 💸 [Personal Finance Behaviour Analysis](https://github.com/Ngan-Nguyentt/personal-finance-behaviour-analysis) | Why do budgets fail, and can an app warn people before they overspend? | `Python` · `pandas` · `Django` |
-| 📈 [Stock Market Intelligence Dashboard](https://github.com/Ngan-Nguyentt/stock-market-risk-analytics-powerbi) | Can an everyday investor read five mega-cap stocks the way an analyst would? | `Power BI` · `Power Query` · `DAX` |
-
-➡️ **See them live with the stories behind them:** **[ngan-nguyentt.github.io](https://ngan-nguyentt.github.io/)**
-
-### 📫 Find me
+### 📫 Let's connect
 
 - 🌐 **Portfolio:** [ngan-nguyentt.github.io](https://ngan-nguyentt.github.io/)
 - 💼 **LinkedIn:** [in/ngan-nguyen](https://www.linkedin.com/in/ngan-nguyen-2022a4358/)
-- ✉️ **Email:** [tracynttnguyen@gmail.com](mailto:tracynttnguyen@gmail.com)
-
-<p align="center"><sub>Thanks for stopping by — let's turn data into decisions. ✨</sub></p>
+- ✉️ **Email:** [ngan.nguytt@gmail.com](mailto:ngan.nguytt@gmail.com)
